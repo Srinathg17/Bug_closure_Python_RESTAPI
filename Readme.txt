@@ -1,0 +1,1 @@
+Kindly make sure to change the Script path in(jenkins-regression-tests/Interns-codes/Iv_bugs)all specified path fields in Regression_iv_bugs.py according to your local path
